@@ -20,13 +20,14 @@
   .fix
   {
     position: fix;
+    width: 100%;
+    z-index: 999;
 
     background-color: #292c47;
 }
 .header
 {
-    width: 100%;
-    z-index: 999;
+    
 }
   li a {
     display: block;
