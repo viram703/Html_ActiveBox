@@ -1,4 +1,9 @@
   
+  .top_mar
+  {
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
 .dbox{
     height:20px;
     background-color: mediumvioletred;
@@ -13,9 +18,9 @@
     width: 100%;
   }
 
-  body{
+  .back_gr{
         background-image:url('../images/banner.jpg');
-        background-size: 100%,100%;
+        background-size: 50%,50%;
    }
   .fix
   {
@@ -25,14 +30,21 @@
 
     background-color: #292c47;
 }
-.header
-{
-    
-}
+
   li a {
     display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+  }
+  .ftop
+  {
+    background-color: #3a3e64;
+    padding:20px 0;
+  }
+  .fbottom{
+    background-color: #313454;
+    padding-top: 50px;
+
   }
